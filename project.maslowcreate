@@ -8,13 +8,22 @@
     "topLevel": true,
     "allAtoms": [
         {
+            "atomType": "Box",
+            "name": "Box",
+            "x": 0.6753333333333333,
+            "y": 0.4518950437317784,
+            "ioValues": []
+        },
+        {
             "atomType": "Output",
             "name": "Output",
-            "x": 0.9866666666666666,
-            "y": 0.5,
+            "x": 0.6793333333333333,
+            "y": 0.5510204081632653,
             "ioValues": []
         }
     ],
     "allConnectors": [],
-    "fileTypeVersion": 1
+    "fileTypeVersion": 1,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
 }
